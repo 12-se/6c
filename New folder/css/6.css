@@ -1,0 +1,8 @@
+.main{
+    width: 500px;
+    height: 500px;
+    background: red;
+    position: absolute;
+    top: 10%;
+    right: 0;
+}
